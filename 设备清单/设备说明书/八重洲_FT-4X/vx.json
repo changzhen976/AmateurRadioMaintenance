@@ -1,0 +1,31 @@
+{
+    "created_time": "2025-10-24T04:07:09Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2025-10-24T04:07:52Z",
+            "id": "22",
+            "modified_time": "2025-10-24T04:07:52Z",
+            "name": "FT-4XR_AM_CHN.pdf",
+            "signature": "6746598642510658456",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2025-10-24T04:07:52Z",
+            "id": "24",
+            "modified_time": "2025-10-24T04:07:52Z",
+            "name": "FT-4XR_OM_CHN.pdf",
+            "signature": "6855264510555126680",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "18",
+    "modified_time": "2025-10-24T04:07:09Z",
+    "signature": "14716365726772034413",
+    "version": 3
+}
