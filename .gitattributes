@@ -1,0 +1,2 @@
+# Store bytes as-is: no CRLF conversion (git must not rewrite line endings)
+* -text
